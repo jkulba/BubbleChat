@@ -1,2 +1,2 @@
 # BubbleChat
-Peer to Peer  Messaging
+Python based Dockerfile example.
